@@ -1,6 +1,6 @@
 # Random password Generator
 [![PyPI version](https://img.shields.io/badge/PYPI-V%202.2.0-blue.svg)](https://pypi.org/project/random-password-generator)
-[![Build Status](https://travis-ci.org/suryasr007/random-password-generator.svg?branch=master)](https://travis-ci.org/suryasr007/random-password-generator)
+[![CircleCI](https://circleci.com/gh/suryasr007/random-password-generator/tree/master.svg?style=svg)](https://circleci.com/gh/suryasr007/random-password-generator/tree/master)
 
 #### A minimal and custom random password generator.
  * No dependencies.
